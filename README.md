@@ -283,4 +283,19 @@ Features
 
 - Track Student Progress
 - View Attendance
-- View Results
+- View Results---
+
+# 🔒 Source Code
+
+The source code for this project is private because it contains proprietary business logic and commercial components developed by Sipra Corporation.
+
+This repository is intended to showcase the project's architecture, features, technology stack, and documentation.
+
+## 📞 Interested in this solution?
+
+If you're interested in a live demonstration, customization, or a similar solution for your organization, feel free to get in touch.
+
+- 🌐 Website: https://sfschool.sipracorporation.com
+- 🏢 Company: https://sipracorporation.com
+- 💼 LinkedIn: https://linkedin.com/in/ahsan-sipra
+- 📧 Email: ahsan@sipracorporation.com
