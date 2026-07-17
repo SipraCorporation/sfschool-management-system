@@ -306,44 +306,46 @@ If you're interested in a live demonstration, customization, or a similar soluti
 - 💼 LinkedIn: https://linkedin.com/in/ahsan-sipra
 - 📧 Email: ahsan@sipracorporation.com    # 📸 Application Screenshots
 
-## Home
+# 📸 Application Screenshots
 
-![Home](assets/screenshots/01-home-hero.png)
+## 🏠 Home
 
----
-
-## ERP Modules
-
-![Modules](assets/screenshots/02-modules.png)
+![Home](assets/screenshots/home-hero.png)
 
 ---
 
-## Role Based Dashboard
+## 📚 ERP Modules
 
-![Dashboard](assets/screenshots/03-role-dashboard.png)
-
----
-
-## User Roles
-
-![Roles](assets/screenshots/04-user-roles.png)
+![Modules](assets/screenshots/modules.png)
 
 ---
 
-## Key Features
+## 📊 Role-Based Dashboard
 
-![Features](assets/screenshots/05-features-1.png)
-
-![Features](assets/screenshots/06-features-2.png)
+![Dashboard](assets/screenshots/role-dashboard.png)
 
 ---
 
-## Customers
+## 👥 User Roles
 
-![Customers](assets/screenshots/07-customers.png)
+![Roles](assets/screenshots/user-roles.png)
 
 ---
 
-## Contact
+## ⭐ Key Features
 
-![Contact](assets/screenshots/08-contact.png)
+![Features](assets/screenshots/features-1.png)
+
+![Features](assets/screenshots/features-2.png)
+
+---
+
+## 🏫 Customers
+
+![Customers](assets/screenshots/customers.png)
+
+---
+
+## 📞 Contact
+
+![Contact](assets/screenshots/contact.png)
