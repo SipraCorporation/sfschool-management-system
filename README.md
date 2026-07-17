@@ -34,6 +34,17 @@ Thank you for your interest in contributing.
 5. Open Pull Request
 
 Please follow coding standards and write clear commit messages.# Security Policy
+## 🌐 Live Demo
+
+**Website:** https://sfschool.sipracorporation.com
+
+Experience the live application and explore its features.
+## 🔗 Quick Links
+
+- 🌐 **Live Demo:** <https://sfschool.sipracorporation.com>
+- 🏢 **Sipra Corporation:** <https://sipracorporation.com>
+- 💼 **LinkedIn:** <https://linkedin.com/in/ahsan-sipra>
+- 📧 **Email:** ahsan@sipracorporation.com
 
 ## Reporting a Vulnerability
 
@@ -304,7 +315,16 @@ If you're interested in a live demonstration, customization, or a similar soluti
 - 🌐 Website: https://sfschool.sipracorporation.com
 - 🏢 Company: https://sipracorporation.com
 - 💼 LinkedIn: https://linkedin.com/in/ahsan-sipra
-- 📧 Email: ahsan@sipracorporation.com    # 📸 Application Screenshots
+- 📧 Email: ahsan@sipracorporation.com
+## 🚀 Project Status
+
+**Status:** Active Development
+
+**Version:** 1.0.0
+
+**License:** MIT
+---
+
 
 # 📸 Application Screenshots
 
@@ -349,3 +369,8 @@ If you're interested in a live demonstration, customization, or a similar soluti
 ## 📞 Contact
 
 ![Contact](assets/screenshots/contact.png)
+---
+
+Made with ❤️ by **Sipra Corporation**
+
+© 2026 Ahsan Raza Sipra
